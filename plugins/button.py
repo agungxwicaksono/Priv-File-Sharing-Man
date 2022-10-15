@@ -29,12 +29,12 @@ def start_button(client):
     if FORCE_SUB_CHANNEL and not FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
+               # InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
             ],
             [
                # InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
                     InlineKeyboardButton(
-                        text="Oᴘᴇɴ File/Vɪdeo",
+                        text="Open File/Video",
                         url=f"https://awesomegirlinspiration.blogspot.com/",
                     )
             ],
@@ -46,12 +46,12 @@ def start_button(client):
                # InlineKeyboardButton(text="ʜᴇʟᴘ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="help"),
             ],
             [
-                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
-                InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=client.invitelink2),
+               # InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ", url=client.invitelink),
+               # InlineKeyboardButton(text="ɢʀᴏᴜᴘ", url=client.invitelink2),
             ],
             [
                     InlineKeyboardButton(
-                        text="Oᴘᴇɴ File/Vɪdeo",
+                        text="Open File/Video",
                         url=f"https://awesomegirlinspiration.blogspot.com/",
                     )
             ],
