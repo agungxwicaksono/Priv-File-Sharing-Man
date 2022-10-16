@@ -47,7 +47,7 @@
     },
     "START_MESSAGE": {
       "description": "Pesan /start memulai awalan ke bot, Gunakan format parsemode HTML",
-      "value": "<b>Hello {first}\n\nJoin Channel @indobokephdviral dulu video baru bisa keluar.</b>"
+      "value": "<b>Hello {first}\n\nJoin Channel @videobokeptelegramviral dulu video baru bisa keluar.</b>"
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
