@@ -51,7 +51,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
-      "value": "<b>Video ⬇️⬇️\n\n➡️<a href="https://kleinelottaarchitectdesigns.blogspot.com">NONTON LANGSUNG DI BOT</a></p>⬅️</b>"
+      "value": "<b>Hello {first}️\n\nSaya adalah Bot asupan konten 18+ berfungsi untuk membagikan file asupan berupa link khusus.</b>"
     }
   },
   "addons": [
