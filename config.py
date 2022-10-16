@@ -47,7 +47,7 @@ TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 # Pesan Awalan /start
 START_MSG = os.environ.get(
     "START_MESSAGE",
-    "<b>Hello {first}</b>\n\n<b>Join Channel @videobokeptelegramviral dulu video baru bisa keluar.</b>",
+    "<b>Hello {first}️\n\nSaya adalah Bot asupan konten 18+ berfungsi untuk membagikan file asupan berupa link khusus.</b>",
 )
 try:
     ADMINS = [int(x) for x in (os.environ.get("ADMINS", "").split())]
@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}️\n\nSaya adalah Bot asupan konten 18+ berfungsi untuk membagikan file asupan berupa link khusus.</b>",
+    "<b>Hello {first}</b>\n\n<b>Join Channel @videobokeptelegramviral dulu video baru bisa keluar.</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
